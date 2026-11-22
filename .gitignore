@@ -1,3 +1,4 @@
 .env
 input/snapshot.json
 input/snapshot.json
+node_modules/
